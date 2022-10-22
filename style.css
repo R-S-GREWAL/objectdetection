@@ -1,0 +1,23 @@
+body {
+    background-size: cover;
+    background-position: center;
+    
+}
+.heading
+{
+font-size: 30px;
+width: 35%;
+margin: 0px;
+box-shadow: 7px 7px 7px #09278b;
+font-family: 'Bungee Spice', cursive;
+}
+
+#stature,#No_of_objects,#start_model
+{
+font-size: 18px;
+}
+canvas{
+    box-shadow: 7px 7px 7px 7px rgb(9, 39, 139);
+    border-radius: 10px;
+    margin-top: 20px;
+}
